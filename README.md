@@ -17,8 +17,5 @@ This is a Spring-based web application that calculates compatibility between two
 ## How to Run the Project
 1. Clone the repository: `git clone [<repo-url>](https://github.com/Tush-Talekar7/LoveCalculator.git)`
 2. Run the application using Tomcat or any other Java web server.
-
-##Database Details
-1.register_ table with columns userName and passwrod
-2.relation_table with columns userName , crushName and relation
+   
 
