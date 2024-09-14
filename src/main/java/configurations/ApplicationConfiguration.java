@@ -35,11 +35,11 @@ public class ApplicationConfiguration {
     public JavaMailSender getJavaMailSender()
     {    	
         JavaMailSenderImpl mailSender = new JavaMailSenderImpl();
-        mailSender.setHost("smtp.gmail.com"); // Replace with your mail server
+        mailSender.setHost(""); // Replace with your mail server
         mailSender.setPort(587);
 
-        mailSender.setUsername("sagartalekar2005@gmail.com");
-        mailSender.setPassword("cywkmflqzjnstqiq");
+        mailSender.setUsername("");//Provide Your Email Id
+        mailSender.setPassword("");//Provide Your Password
 
         Properties props = new Properties();
         props.put("mail.smtp.starttls.enable", true);
