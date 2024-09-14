@@ -11,7 +11,7 @@ This is a Spring-based web application that calculates compatibility between two
 ## Technologies Used
 - Java (Spring Framework)
 - MySQL for database
-- HTML, JSP for frontend
+- HTML,CSS,,Javascript JSP for frontend
 - Tomcat server for deployment
 
 ## How to Run the Project
